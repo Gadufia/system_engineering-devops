@@ -1,1 +1,1 @@
-Shell basics and scripting exercises.
+Shell basics script practice repository.
