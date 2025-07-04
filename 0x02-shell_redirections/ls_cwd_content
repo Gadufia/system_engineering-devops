@@ -1,0 +1,14 @@
+total 22
+drwxr-xr-x 1 NEW USER 197121  0 Jun 29 12:09 .
+drwxr-xr-x 1 NEW USER 197121  0 Jun 29 10:43 ..
+-rwxr-xr-x 1 NEW USER 197121 32 Jun 29 10:52 0-hello_world
+-rwxr-xr-x 1 NEW USER 197121 30 Jun 29 11:13 1-confused_smiley
+-rwxr-xr-x 1 NEW USER 197121 28 Jun 29 11:06 2-hellofile
+-rwxr-xr-x 1 NEW USER 197121 39 Jun 29 11:18 3-twofiles
+-rwxr-xr-x 1 NEW USER 197121 29 Jun 29 11:23 4-lastlines
+-rwxr-xr-x 1 NEW USER 197121 29 Jun 29 11:28 5-firstlines
+-rwxr-xr-x 1 NEW USER 197121 40 Jun 29 11:46 6-third_line
+-rwxr-xr-x 1 NEW USER 197121 74 Jun 29 11:55 7-file
+-rwxr-xr-x 1 NEW USER 197121 36 Jun 29 12:08 8-cwd_state
+-rw-r--r-- 1 NEW USER 197121 28 Jun 29 11:47 iacta
+-rw-r--r-- 1 NEW USER 197121  0 Jun 29 12:09 ls_cwd_content
