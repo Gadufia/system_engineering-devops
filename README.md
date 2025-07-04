@@ -1,1 +1,1 @@
-# Shell Basics Project
+Shell basics and scripting exercises.
