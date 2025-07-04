@@ -1,1 +1,2 @@
-# system_engineering-devops
+# System Engineering - DevOps
+This project contains basic shell commands and scripting exercises.
