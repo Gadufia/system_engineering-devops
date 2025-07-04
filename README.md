@@ -1,1 +1,2 @@
-Shell basics script practice repository.
+This is the shell basics repo for printing current working directory.
+
