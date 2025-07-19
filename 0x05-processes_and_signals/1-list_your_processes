@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
-# Display running processes in a hierarchical tree view
-ps -eo pid,ppid,cmd --forest
+# Display all running processes in hierarchical tree format
+ps -eo user,pid,ppid,cmd --forest
+
 
